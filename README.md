@@ -1,3 +1,5 @@
+![gifit_1676864537616](https://user-images.githubusercontent.com/118322531/220034380-35c7a79a-532b-4e23-838f-0d306f1a2ad6.gif)
+
 
 ## ASAP 프로젝트 소개
 
@@ -18,9 +20,9 @@
 
 - 브랜드 전략에 맞게 사이트가 잘 구성되어있으며 디자인이 아름답고 세련됨
 
-### 데모 영상(이미지 클릭)
+### 데모 영상
 
-[![ASAP 페이지 데모영상](http://img.youtu.be/oADqkrk6GPM/0.jpg)](https://youtu.be/oADqkrk6GPM)
+[![ASAP 페이지 데모영상](https://youtu.be/oADqkrk6GPM)
 
 
 ## 적용 기술 및 구현 기능
@@ -34,6 +36,9 @@
 ### 구현 기능
 
 #### 공통
+![gifit_1676864712472](https://user-images.githubusercontent.com/118322531/220034503-0c0428bf-086c-4903-83c3-3e10ba4d27e0.gif)
+![gifit_1676864780078](https://user-images.githubusercontent.com/118322531/220034507-9f61d432-85fe-489a-bef2-ec2bb653d277.gif)
+![gifit_1676864889380](https://user-images.githubusercontent.com/118322531/220034508-eb47420e-675a-4200-be1e-e0262926e646.gif)
 
 - 일반 회원가입 / 로그인
 - 입력 값 유효성 검사
@@ -46,10 +51,18 @@
 
 #### 메인페이지
 
+![gifit_1676864604674](https://user-images.githubusercontent.com/118322531/220034542-24cf3f1a-4972-418e-870b-7164b1070254.gif)
+![gifit_1676864834148](https://user-images.githubusercontent.com/118322531/220034545-078ad687-1b94-4cb2-abb6-19ac9a2c92a9.gif)
+
 - 추천 상품 영상 삽입
 - 추천 상품 캐러셀
 
 #### 제품 리스트 페이지
+![gifit_1676864916426](https://user-images.githubusercontent.com/118322531/220034591-f44481d7-3f95-4c4f-b16a-7b4a7abd397b.gif)
+![gifit_1676864949265](https://user-images.githubusercontent.com/118322531/220034595-6c853853-cdcc-447c-b714-bd218a7fd240.gif)
+![gifit_1676864993628](https://user-images.githubusercontent.com/118322531/220034597-589ce902-963e-4a78-99ce-2c65ba26f64c.gif)
+![gifit_1676865100392](https://user-images.githubusercontent.com/118322531/220034598-102c1be0-d91d-4cf0-86c9-5bd9de1bb061.gif)
+![gifit_1676865138025](https://user-images.githubusercontent.com/118322531/220034601-6dc07a0f-01eb-41e5-9ae8-001496381435.gif)
 
 - 백엔드에서 받은 상품 데이터 대로 출력
 - 카테고리 전체보기 / 상세 카테고리 페이지 2개 레이아웃으로 구현
@@ -59,12 +72,15 @@
 - 옵션 선택 후 버튼 클릭 시해당 값 백엔드로 전송
 
 #### 상세 제품 페이지
+![gifit_1676865190816](https://user-images.githubusercontent.com/118322531/220034630-ad54bf99-680a-4412-a9fe-7867a4c96094.gif)
 
 - 옵션 별로 라디오 버튼 생성
 - 옵션 선택 후 버튼 클릭 시 해당 값 백엔드로 전송
 - 애니메이션 적용한 캐러셀 구현
 
 #### 결제 페이지
+![gifit_1676865260649](https://user-images.githubusercontent.com/118322531/220034693-5b9b79a5-6833-45cd-a19d-8d0f37f831cd.gif)
+![gifit_1676865323524](https://user-images.githubusercontent.com/118322531/220034719-acd8119d-e244-4d47-8b49-5ac303ca1bef.gif)
 
 - 마운트 애니메이션 적용
 - 입력 창 애니메이션 적용
